@@ -17,7 +17,7 @@ Two different data sets were merged to form one final dataframe.
 1. The 'Causes of death' data set is composed of 6120 rows and 33 columns and contains the death causes count by country and year (1990 to 2019).
 - Columns: ‘Country/Territory’, ‘Code’, 'Year', 'Meningitis', 'Alzheimer's Disease and Other Dementias', 'Parkinson's Disease', 'Nutritional Deficiencies', 'Malaria', 'Drowning', 'Interpersonal Violence', 'Maternal Disorders', 'HIV/AIDS', 'Drug Use Disorders', 'Tuberculosis', 'Cardiovascular Diseases', 'Lower Respiratory Infections', 'Neonatal Disorders', 'Alcohol Use Disorders', 'Self-harm', 'Exposure to Forces of Nature', 'Diarrheal Diseases', 'Environmental Heat and Cold Exposure', 'Neoplasms', 'Conflict and Terrorism', 'Diabetes Mellitus', 'Chronic Kidney Disease', 'Poisonings', 'Protein-Energy Malnutrition',  'Road Injuries', 'Chronic Respiratory Diseases', 'Cirrhosis and Other Chronic Liver Diseases', 'Digestive Diseases',' Fire, Heat, and Hot Substances', 'Acute Hepatitis.
 
-2. The 'Economic Data' is composed of some world statistics and has in total 55 columns. Only 'country code' and 'GDP per capita' columns were used in this analysis.
+2. The 'Economic Data' is composed of some world statistics and has in total of 55 columns and 16104 rows. Only the 'Country Name',' Country Code',' Year',' GDP per capita', and'Population, total' columns were used in this analysis.
 
    
 ## Data Source
